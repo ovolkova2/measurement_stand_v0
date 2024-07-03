@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Vref Pin=U1-2
+Added Pin To Net: NetName=MCLK Pin=U1-4
+Added Pin To Net: NetName=MOSI Pin=U1-5
+Added Pin To Net: NetName=MISO Pin=U1-6
+Added Pin To Net: NetName=CS1 Pin=U1-9
+Added Room: Name=main_hall

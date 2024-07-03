@@ -1,0 +1,28 @@
+Added Component: Designator=J1(3M_N2516-5002RB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SMD Solders"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder Option"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD Solders"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS1 Pin=J1-2
+Added Pin To Net: NetName=MCLK Pin=J1-3
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=V1temp Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=V1z Pin=J1-7
+Added Pin To Net: NetName=Vref1 Pin=J1-8
+Added Pin To Net: NetName=V1x Pin=J1-9
+Added Pin To Net: NetName=Vref1 Pin=J1-10
+Added Pin To Net: NetName=V1y Pin=J1-11
+Added Pin To Net: NetName=Vref1 Pin=J1-12
+Added Pin To Net: NetName=5V Hall Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-2
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=main_hall Member=Component J1 =Family
+Added Member To Class: ClassName=main_hall Member=Component U1 Hall sensor
+Added Room: Name=main_hall

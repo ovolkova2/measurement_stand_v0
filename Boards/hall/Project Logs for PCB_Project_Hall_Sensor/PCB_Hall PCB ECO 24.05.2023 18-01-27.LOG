@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=V1y Pin=J?-3
+Removed Pin From Net: NetName=Vref1 Pin=J?-4
+Removed Pin From Net: NetName=V1x Pin=J?-5
+Removed Pin From Net: NetName=Vref1 Pin=J?-6
+Removed Pin From Net: NetName=V1z Pin=J?-7
+Removed Pin From Net: NetName=Vref1 Pin=J?-8
+Added Pin To Net: NetName=Vref1 Pin=J?-3
+Added Pin To Net: NetName=V1y Pin=J?-4
+Added Pin To Net: NetName=Vref1 Pin=J?-5
+Added Pin To Net: NetName=V1x Pin=J?-6
+Added Pin To Net: NetName=Vref1 Pin=J?-7
+Added Pin To Net: NetName=V1z Pin=J?-8
+Added Room: Name=main_hall

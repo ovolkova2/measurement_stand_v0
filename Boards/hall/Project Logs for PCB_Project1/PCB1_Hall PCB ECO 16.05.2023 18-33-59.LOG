@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=Vref2 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=Vref1 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=Vref1 Pin=J1-11
+Removed Pin From Net: NetName=Vref2 Pin=J1-25
+Change Component Comment : Designator=C1 Old Comment==Value New Comment=0.1
+Change Component Comment : Designator=C2 Old Comment==Value New Comment=0.1
+Change component parameters: Designator = "C1"; Footprint = "CAPC3216X100N"; UniqueID = "\IIDDONRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric type"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD Solders"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SolderOption"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "THD Solders"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "any"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC3216X100N"; UniqueID = "\KPOOQUCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric type"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD Solders"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SolderOption"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "THD Solders"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "any"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vref2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vref1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-25
+Added Member To Class: ClassName=main_hall Member=Component C1 0.1
+Added Member To Class: ClassName=main_hall Member=Component C2 0.1
+Added Member To Class: ClassName=main_hall Member=Component C8 0.1
+Added Room: Name=main_hall

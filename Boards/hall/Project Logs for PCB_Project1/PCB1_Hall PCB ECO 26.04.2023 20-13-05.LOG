@@ -1,0 +1,41 @@
+Added Pin To Net: NetName=5V Hall Pin=U1-20
+Added Pin To Net: NetName=5V Hall Pin=U2-20
+Added Net: Name=5V Hall
+Added Pin To Net: NetName=CS1 Pin=U1-9
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=U2-9
+Added Net: Name=CS2
+Added Pin To Net: NetName=MISO Pin=U1-6
+Added Pin To Net: NetName=MISO Pin=U2-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-5
+Added Pin To Net: NetName=MOSI Pin=U2-5
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCLK Pin=U1-4
+Added Pin To Net: NetName=SCLK Pin=U2-4
+Added Net: Name=SCLK
+Added Pin To Net: NetName=V1refz Pin=U1-13
+Added Pin To Net: NetName=V1refz Pin=U1-27
+Added Pin To Net: NetName=V1refz Pin=U2-13
+Added Pin To Net: NetName=V1refz Pin=U2-27
+Added Net: Name=V1refz
+Added Pin To Net: NetName=V1temp Pin=U1-26
+Added Net: Name=V1temp
+Added Pin To Net: NetName=V1x Pin=U1-24
+Added Net: Name=V1x
+Added Pin To Net: NetName=V1y Pin=U1-23
+Added Net: Name=V1y
+Added Pin To Net: NetName=V1z Pin=U1-25
+Added Net: Name=V1z
+Added Pin To Net: NetName=V2temp Pin=U2-26
+Added Net: Name=V2temp
+Added Pin To Net: NetName=V2x Pin=U2-24
+Added Net: Name=V2x
+Added Pin To Net: NetName=V2y Pin=U2-23
+Added Net: Name=V2y
+Added Pin To Net: NetName=V2z Pin=U2-25
+Added Net: Name=V2z
+Added Pin To Net: NetName=Vref Pin=U1-2
+Added Pin To Net: NetName=Vref Pin=U2-2
+Added Net: Name=Vref
+Added Room: Name=main_hall

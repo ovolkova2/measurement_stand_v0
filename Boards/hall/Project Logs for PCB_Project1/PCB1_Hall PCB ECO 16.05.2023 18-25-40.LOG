@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Vref1 Pin=J1-11
+Removed Pin From Net: NetName=Vref2 Pin=J1-25
+Change Component Library : Designator=C4 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C5 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C7 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C8 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C11 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C12 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C14 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Change Component Library : Designator=C15 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-25
+Added Room: Name=main_hall

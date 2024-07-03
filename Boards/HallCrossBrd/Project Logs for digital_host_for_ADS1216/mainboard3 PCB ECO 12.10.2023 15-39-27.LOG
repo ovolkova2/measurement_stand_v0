@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=Polarization New Net Name=Polarity
+Added Room: Name=connector to SPI ADS
+Added Room: Name=digital_host_for_ADS1216_main
+Added Room: Name=multiplexer
+Added Room: Name=U_digital_host_for_ADS1216_power

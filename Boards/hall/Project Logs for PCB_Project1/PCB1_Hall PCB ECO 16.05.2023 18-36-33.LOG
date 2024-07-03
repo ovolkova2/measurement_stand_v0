@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC2012X90N New Footprint=CAPC3216X100N
+Added Component: Designator=C1(CAPC3216X100N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dielectric type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD Solders"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderOption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD Solders"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "any"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC3216X100N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dielectric type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD Solders"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderOption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD Solders"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "any"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vref2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vref1 Pin=C2-2
+Added Member To Class: ClassName=main_hall Member=Component C1 0.1
+Added Member To Class: ClassName=main_hall Member=Component C2 0.1

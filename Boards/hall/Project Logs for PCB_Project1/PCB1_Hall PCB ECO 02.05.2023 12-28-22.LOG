@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CS2 Pin=J1-10
+Removed Pin From Net: NetName=MCLK Pin=J1-11
+Removed Pin From Net: NetName=MISO Pin=J1-13
+Removed Pin From Net: NetName=CS1 Pin=J1-14
+Added Pin To Net: NetName=Vref Pin=J1-1
+Added Pin To Net: NetName=Vref Pin=J1-3
+Added Pin To Net: NetName=Vref Pin=J1-5
+Added Pin To Net: NetName=Vref Pin=J1-7
+Added Pin To Net: NetName=CS1 Pin=J1-13
+Added Pin To Net: NetName=MCLK Pin=J1-14
+Added Pin To Net: NetName=CS2 Pin=J1-15
+Added Pin To Net: NetName=MISO Pin=J1-16
+Added Pin To Net: NetName=Vref Pin=J1-19
+Added Pin To Net: NetName=V2temp Pin=J1-20
+Added Pin To Net: NetName=Vref Pin=J1-21
+Added Pin To Net: NetName=V2z Pin=J1-22
+Added Pin To Net: NetName=Vref Pin=J1-23
+Added Pin To Net: NetName=V2y Pin=J1-24
+Added Pin To Net: NetName=Vref Pin=J1-25
+Added Pin To Net: NetName=V2x Pin=J1-26
+Added Pin To Net: NetName=V1temp Pin=J1-8
+Added Net: Name=V1temp
+Added Pin To Net: NetName=V1x Pin=J1-2
+Added Net: Name=V1x
+Added Pin To Net: NetName=V1y Pin=J1-4
+Added Net: Name=V1y
+Added Pin To Net: NetName=V1z Pin=J1-6
+Added Net: Name=V1z
+Added Room: Name=main_hall

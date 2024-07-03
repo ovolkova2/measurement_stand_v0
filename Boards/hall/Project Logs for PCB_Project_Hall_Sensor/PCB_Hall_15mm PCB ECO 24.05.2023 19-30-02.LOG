@@ -1,0 +1,2 @@
+Change Component Library : Designator=J1 Old Library=hall library.IntLib New Library=schematic_hall_library.SchLib
+Added Room: Name=main_hall

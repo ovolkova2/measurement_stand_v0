@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=2
+Added Component: Designator=*1(QFN50P500X500X100-29N-S325)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=main_hall Member=Component *1 Hall sensor
+Added Member To Class: ClassName=main_hall Member=Component 2 Hall sensor
+Added Room: Name=main_hall

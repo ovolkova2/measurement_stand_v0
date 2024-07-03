@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vref Pin=U1-2
+Removed Pin From Net: NetName=MCLK Pin=U1-4
+Removed Pin From Net: NetName=MOSI Pin=U1-5
+Removed Pin From Net: NetName=MISO Pin=U1-6
+Added Room: Name=main_hall
